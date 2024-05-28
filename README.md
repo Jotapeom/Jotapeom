@@ -13,6 +13,20 @@
 
 💖Me especializando em desenvolvimento mobile
 
+<h1 align="center">Hello, My name is João Pedro Mendes! ✌🏿</h1>
+
+🌞I was born in Belo Horizonte/MG 
+
+🔌Graduated in Accounting Sciences
+
+👩‍🎓MBA in ManagementAudit and controlling
+
+🔃In career transition after 8 years of market experience
+
+🚀Student RocketSeat Bootcamp WebDev FullStack
+
+💖Specializing in mobile development
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotapeom&show_icons=true&locale=en" alt="jotapeom" /></p>
